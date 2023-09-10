@@ -1,1 +1,1 @@
-This is my Beer Bottles song after i fixed the bug
+This repo contains my Beer song as well as my phraseomatic java files
