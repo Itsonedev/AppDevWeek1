@@ -15,6 +15,6 @@ public class Phraseomatic {
         int rand3 = (int) (Math.random() * threeLength);
 
         String phrase = pacificDvsn[rand1] + " " + atlanticDvsn[rand2] + " " + southwestDvsn[rand3];
-        System.out.println("What we need is a " + phrase + " Face off!");
+        System.out.println("The three teams left in the playoffs are " + phrase + "!!");
     }
 }
